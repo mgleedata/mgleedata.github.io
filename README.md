@@ -2,8 +2,8 @@
 #### Technical Skills: Python, R, SQL, AWS
 
 ## Education
-Master's in Information and Data Science | UC Berkeley (_Dec 2024_)
-Bachelor's in Biology | Univeristy of San Diego (_Dec 2020_)
+- Master's in Information and Data Science | UC Berkeley (_Dec 2024_)
+- Bachelor's in Biology | Univeristy of San Diego (_Dec 2020_)
 
 ## Work Experience
 **Data Scientist @ Hikam Health (_May 2025 - Present_)**
