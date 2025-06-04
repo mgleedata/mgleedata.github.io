@@ -21,11 +21,14 @@
 - Contributed to FDA EUA submission for an in vitro diagnostic multiplex assay, conducting analytical and clinical validation including LoD, inclusivity, and cross-reactivity testing; optimized assay reagents and worked with viral stocks to ensure diagnostic accuracy and regulatory compliance.
 - Served as Safety Officer in a BSL-2 lab, managing biohazard protocols, chemical inventories, and waste disposal procedures; streamlined lab operations and enforced safety standards that reduced compliance risks during virology research on SARS-CoV-2, influenza, and RSV.
 
+-----
+
 ## Projects 
 #### Detecting Illegal Cannabis Cultivations in NorCal National Forests.
 ‣ [Jupyter Notebooks](https://github.com/mgleedata/Data-Science-Projects/tree/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/IllegalCultivations_NationalForests/Code)
 ‣ [Final Report (PDF)](https://raw.githubusercontent.com/mgleedata/Data-Science-Projects/blob/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/IllegalCultivations_NationalForests/Illegal_Cultivation_National_Forests.pdf)
-‣ [ArcGIS StoryMaps Website] <iframe src="https://storymaps.arcgis.com/stories/89c759a510bf42a7b0f91123a0b139fd" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>- Developed a machine learning solution to identify deforestation and predict illegal cannabis cultivation sites using satellite imagery and geospatial analysis, focusing on environmental conservation and efficient detection in dense forest regions
+‣ [ArcGIS StoryMaps Website](https://storymaps.arcgis.com/stories/89c759a510bf42a7b0f91123a0b139fd)
+- Developed a machine learning solution to identify deforestation and predict illegal cannabis cultivation sites using satellite imagery and geospatial analysis, focusing on environmental conservation and efficient detection in dense forest regions
 - Implemented UNET Transformer models for 2D image segmentation, achieving high recall in forest cover detection from satellite imagery.
 - Analyzed water proximity and land slope to predict potential illegal cultivation sites, enhancing environmental monitoring efficiency. 
 
