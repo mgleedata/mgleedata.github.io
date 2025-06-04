@@ -41,7 +41,7 @@
 
 #### The Impact of Gratitude Journaling on High School Freshman Happiness.
 ‣ [R Markdown](https://github.com/mgleedata/Data-Science-Projects/tree/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/RandomizedTrial_Journaling/Code)
-‣ [Final Report (PDF)](https:/raw.githubusercontent.com/mgleedata/Data-Science-Projects/blob/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/RandomizedTrial_Journaling/RandomizedTrial_Journaling_Students.pdf)
+‣ [Final Report (PDF)](https://raw.githubusercontent.com/mgleedata/Data-Science-Projects/blob/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/RandomizedTrial_Journaling/RandomizedTrial_Journaling_Students.pdf)
 - Led a randomized controlled trial with 107 high school freshmen to assess the effects of gratitude journaling on happiness and well-being, using the Oxford Happiness Questionnaire and additional gratitude measures.
 - Designed and implemented surveys, blocking participants by gender, race, and class performance to ensure balanced randomization.
 - Performed OLS regression with robust standard errors to evaluate the impact of journaling on final happiness and gratitude scores.
