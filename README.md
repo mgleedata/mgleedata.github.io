@@ -74,6 +74,9 @@
 - Visualized voting difficulty distributions for both Democrats and Republicans using bar charts.
 
 ##### A Dive into the True Nature of UFO Sightings vs. Near-Earth Object
+[UFO Sightings vs. Near-Earth Object Analysis]([)](https://github.com/mgleedata/Data-Science-Projects/tree/44febca778e62962de6f43174667d7e4cf43da51/Near-Earth_Object%20Analysis)
+[Report (PDF)]([)](https://github.com/mgleedata/Data-Science-Projects/blob/44febca778e62962de6f43174667d7e4cf43da51/Near-Earth_Object%20Analysis/Near-Earth_UFO_Project_chatto_lee_xu.pdf)
+
 - Conducted a data-driven analysis to investigate potential correlations between UFO sightings and near-Earth objects (NEOs). Collaborated to compare UFO reports from the National UFO Reporting Center with NEO data from NASA's Center for Near-Earth Object Studies.
 - Web-scraped over 144,000 UFO sightings data points, using Python to clean and process the dataset and then utilized NASA’s API to collect over 23,000 NEO records
 - Explored temporal and geographical patterns using Pandas and Matplotlib, examining potential correlations between the frequency, timing, and size of NEOs and the number of UFO sightings.
