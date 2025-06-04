@@ -17,59 +17,59 @@
 - Executed DNA/RNA extractions, multiplex assay workflows for a biomarker discovery study in psoriasis and atopic dermatitis, independently generating and analyzing sequencing data; contributed findings that informed assay optimization and next-phase study design.
 - Directed and executed the planning and launch of a completely new molecular biology laboratory, collaborating with executives to optimize lab layout, manage vendor relationships, and oversee cross-functional teams—bringing the facility to full operational readiness in 6 months.
 
-**Development Associate @ DermTech (_Jan 2023 - Aug 2024_)**
+**Development Associate @ Quidel Corporation (_Jan 2023 - Aug 2024_)**
 - Contributed to FDA EUA submission for an in vitro diagnostic multiplex assay, conducting analytical and clinical validation including LoD, inclusivity, and cross-reactivity testing; optimized assay reagents and worked with viral stocks to ensure diagnostic accuracy and regulatory compliance.
 - Served as Safety Officer in a BSL-2 lab, managing biohazard protocols, chemical inventories, and waste disposal procedures; streamlined lab operations and enforced safety standards that reduced compliance risks during virology research on SARS-CoV-2, influenza, and RSV.
 
 ## Projects 
 #### Detecting Illegal Cannabis Cultivations in NorCal National Forests.
-‣ [Jupyter Notebooks](https://github.com/mgleedata/Data-Science-Projects/tree/44febca778e62962de6f43174667d7e4cf43da51/Near-Earth_Object%20Analysis/Code)
-‣ [Final Report (PDF)](https://raw.githubusercontent.com/mgleedata/Data-Science-Projects/44febca778e62962de6f43174667d7e4cf43da51/Near-Earth_Object%20Analysis/Near-Earth_UFO_Project_chatto_lee_xu.pdf)
-- Developed a machine learning solution to identify deforestation and predict illegal cannabis cultivation sites using satellite imagery and geospatial analysis, focusing on environmental conservation and efficient detection in dense forest regions
+‣ [Jupyter Notebooks](https://github.com/mgleedata/Data-Science-Projects/tree/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/IllegalCultivations_NationalForests/Code)
+‣ [Final Report (PDF)](https://raw.githubusercontent.com/mgleedata/Data-Science-Projects/blob/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/IllegalCultivations_NationalForests/Illegal_Cultivation_National_Forests.pdf)
+‣ [ArcGIS StoryMaps Website] <iframe src="https://storymaps.arcgis.com/stories/89c759a510bf42a7b0f91123a0b139fd" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>- Developed a machine learning solution to identify deforestation and predict illegal cannabis cultivation sites using satellite imagery and geospatial analysis, focusing on environmental conservation and efficient detection in dense forest regions
 - Implemented UNET Transformer models for 2D image segmentation, achieving high recall in forest cover detection from satellite imagery.
 - Analyzed water proximity and land slope to predict potential illegal cultivation sites, enhancing environmental monitoring efficiency. 
 
 #### Panel Models of US Traffic Fatalities: 1980 - 2004.
-‣ [Jupyter Notebooks](https://github.com/mgleedata/Data-Science-Projects/tree/44febca778e62962de6f43174667d7e4cf43da51/Near-Earth_Object%20Analysis/Code)
-‣ [Final Report (PDF)](https://raw.githubusercontent.com/mgleedata/Data-Science-Projects/44febca778e62962de6f43174667d7e4cf43da51/Near-Earth_Object%20Analysis/Near-Earth_UFO_Project_chatto_lee_xu.pdf)
+‣ [R Markdown](https://github.com/mgleedata/Data-Science-Projects/tree/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/PanelModels_TrafficFatalities_Analysis/Code)
+‣ [Final Report (PDF)](https://github.com/mgleedata/Data-Science-Projects/blob/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/PanelModels_TrafficFatalities_Analysis/PanelModel_TrafficFatalities_Analysis.pdf)
 - Explored the relationship between traffic law changes and traffic fatalities across 48 U.S. States using 25 years of data from Fatality Analysis Reporting system using panel data.
 - Developed linear and expanded regression models to evaluate the impact of traffic laws on fatality rate.
 - Estimated both fixed and random effect models, applying panel data techniques to control for unobserved, state specific characteristics.
 
 #### The Impact of Gratitude Journaling on High School Freshman Happiness.
-‣ [Jupyter Notebooks](https://github.com/mgleedata/Data-Science-Projects/tree/44febca778e62962de6f43174667d7e4cf43da51/Near-Earth_Object%20Analysis/Code)
-‣ [Final Report (PDF)](https://raw.githubusercontent.com/mgleedata/Data-Science-Projects/44febca778e62962de6f43174667d7e4cf43da51/Near-Earth_Object%20Analysis/Near-Earth_UFO_Project_chatto_lee_xu.pdf)
+‣ [Jupyter Notebooks](https://github.com/mgleedata/Data-Science-Projects/tree/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/RandomizedTrial_Journaling/Code)
+‣ [Final Report (PDF)](https://raw.githubusercontent.com/mgleedata/Data-Science-Projects/blob/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/RandomizedTrial_Journaling/RandomizedTrial_Journaling_Students.pdf)
 - Led a randomized controlled trial with 107 high school freshmen to assess the effects of gratitude journaling on happiness and well-being, using the Oxford Happiness Questionnaire and additional gratitude measures.
 - Designed and implemented surveys, blocking participants by gender, race, and class performance to ensure balanced randomization.
 - Performed OLS regression with robust standard errors to evaluate the impact of journaling on final happiness and gratitude scores.
 
 #### Wikepedia Clustering with K-means.
-‣ [Jupyter Notebooks](https://github.com/mgleedata/Data-Science-Projects/tree/44febca778e62962de6f43174667d7e4cf43da51/Near-Earth_Object%20Analysis/Code)
-‣ [Final Report (PDF)](https://raw.githubusercontent.com/mgleedata/Data-Science-Projects/44febca778e62962de6f43174667d7e4cf43da51/Near-Earth_Object%20Analysis/Near-Earth_UFO_Project_chatto_lee_xu.pdf)
+‣ [Jupyter Notebooks](https://github.com/mgleedata/Data-Science-Projects/tree/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/K-Means_Wikipedia_Clutering/Code)
+‣ [Final Report (PDF)](https://raw.githubusercontent.com/mgleedata/Data-Science-Projects/blob/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/K-Means_Wikipedia_Clutering/Wikipedia_Clustering_with_K-means.pdf)
 - Developed a K-means culturing model to categorize Wikipedia articles based on their sematic and content similaries, aiming to improve the browesing experience by suggesting articles without restricting topics.
 - Web-scraped Wikipedia articles and processed the text by tokenizing and embedding for semantic meaning.
 - Tested multiple cluster sizes (64, 31, 8, 4) using the Elbow Method to determine optimal groupings.
 - Applied Principal Component Analysis (to reduce dimensionality and improve clustering results.
 
 #### Time Series Analysis of Evolution of CO2 Levels from 1997 to Present.
-‣ [Jupyter Notebooks](https://github.com/mgleedata/Data-Science-Projects/tree/44febca778e62962de6f43174667d7e4cf43da51/Near-Earth_Object%20Analysis/Code)
-‣ [Final Report (PDF)](https://raw.githubusercontent.com/mgleedata/Data-Science-Projects/44febca778e62962de6f43174667d7e4cf43da51/Near-Earth_Object%20Analysis/Near-Earth_UFO_Project_chatto_lee_xu.pdf)
+‣ [R Markdown](https://github.com/mgleedata/Data-Science-Projects/tree/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/TimeSeries_CO2_Level_Analysis/Code)
+‣ [Final Report (PDF)](https://raw.githubusercontent.com/mgleedata/Data-Science-Projects/blob/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/TimeSeries_CO2_Level_Analysis/CO2_Levels_TImeSeries_Analysis.pdf)
 - Analyzed long-term atmospheric CO2 data from the Mauna Loa Observatory to predict future CO2 concentrations using linear, quadratic, and ARIMA models, focusing on the impact of seasonality and human activities on CO2 trends.
 - Conducted exploratory data analysis on historical CO2 data to identify trends, seasonality, and autocorrelations.
 - Developed and compared ARIMA and polynomial regression models to forecast future CO2 levels.
 - Performed residual analysis and KPSS tests to ensure stationarity and evaluate model performance.
 
 #### Bike Share Demand in Seoul, South Korea.
-‣ [Jupyter Notebooks](https://github.com/mgleedata/Data-Science-Projects/tree/44febca778e62962de6f43174667d7e4cf43da51/Near-Earth_Object%20Analysis/Code)
-‣ [Final Report (PDF)](https://raw.githubusercontent.com/mgleedata/Data-Science-Projects/44febca778e62962de6f43174667d7e4cf43da51/Near-Earth_Object%20Analysis/Near-Earth_UFO_Project_chatto_lee_xu.pdf)
+‣ [R Markdown](https://github.com/mgleedata/Data-Science-Projects/tree/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/Bike_Share_Analysis/Code)
+‣ [Final Report (PDF)](https://raw.githubusercontent.com/mgleedata/Data-Science-Projects/blob/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/Bike_Share_Analysis/Bike_Share_Final_Report.pdf)
 - Developed a Poisson regression model to predict bike rental demand using the Seoul Bike Sharing Demand dataset, analyzing environmental and temporal factors influencing hourly bike rentals.
 - Conducted exploratory data analysis on key features like temperature, wind speed, and seasonality.
 - Built and compared multiple Poisson regression models to assess the influence of factors such as temperature, hour, wind speed, and seasonality.
 - Applied negative binomial regression to address overdispersion and improve model accuracy.
 
 #### Optimizing Delivery with BART and Cloud Algorithms.
-‣ [Jupyter Notebooks](https://github.com/mgleedata/Data-Science-Projects/tree/44febca778e62962de6f43174667d7e4cf43da51/Near-Earth_Object%20Analysis/Code)
-‣ [Final Report (PDF)](https://raw.githubusercontent.com/mgleedata/Data-Science-Projects/44febca778e62962de6f43174667d7e4cf43da51/Near-Earth_Object%20Analysis/Near-Earth_UFO_Project_chatto_lee_xu.pdf)
+‣ [Jupyter Notebook](https://github.com/mgleedata/Data-Science-Projects/tree/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/Cloud_Algorithms/Code)
+‣ [Final Report (PDF)](https://raw.githubusercontent.com/mgleedata/Data-Science-Projects/blob/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/Cloud_Algorithms/BART_CloudAlgorithms_PPT.pdf)
 - Developed an optimized delivery system using BART public transit and cloud-based technologies (Neo4j, MongoDB, Redis) to enhance route planning and real-time tracking for AGM deliveries.
 - Neo4j: Applied Louvain modularity, closeness centrality, and Dijkstra's algorithm to optimize delivery routes and staging locations using BART stations
 - MongoDB: Utilized geospatial indexing for aerial delivery route planning and tracking, storing customer orders with real-time updates
