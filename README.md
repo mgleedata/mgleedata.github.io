@@ -26,7 +26,7 @@
 ## Projects 
 #### Detecting Illegal Cannabis Cultivations in NorCal National Forests.
 ‣ [Jupyter Notebooks](https://github.com/mgleedata/Data-Science-Projects/tree/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/IllegalCultivations_NationalForests/Code)
-‣ [Final Report (PDF)](https://raw.githubusercontent.com/mgleedata/Data-Science-Projects/blob/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/IllegalCultivations_NationalForests/Illegal_Cultivation_National_Forests.pdf)
+‣ [Final Report (PDF)](https://raw.githubusercontent.com/mgleedata/Data-Science-Projects/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/IllegalCultivations_NationalForests/Illegal_Cultivation_National_Forests.pdf)
 ‣ [ArcGIS StoryMaps Website](https://storymaps.arcgis.com/stories/89c759a510bf42a7b0f91123a0b139fd)
 - Developed a machine learning solution to identify deforestation and predict illegal cannabis cultivation sites using satellite imagery and geospatial analysis, focusing on environmental conservation and efficient detection in dense forest regions
 - Implemented UNET Transformer models for 2D image segmentation, achieving high recall in forest cover detection from satellite imagery.
@@ -34,21 +34,21 @@
 
 #### Panel Models of US Traffic Fatalities: 1980 - 2004.
 ‣ [R Markdown](https://github.com/mgleedata/Data-Science-Projects/tree/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/PanelModels_TrafficFatalities_Analysis/Code)
-‣ [Final Report (PDF)](https://raw.githubusercontent.com/mgleedata/Data-Science-Projects/blob/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/PanelModels_TrafficFatalities_Analysis/PanelModel_TrafficFatalities_Analysis.pdf)
+‣ [Final Report (PDF)](https://raw.githubusercontent.com/mgleedata/Data-Science-Projects/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/PanelModels_TrafficFatalities_Analysis/PanelModel_TrafficFatalities_Analysis.pdf)
 - Explored the relationship between traffic law changes and traffic fatalities across 48 U.S. States using 25 years of data from Fatality Analysis Reporting system using panel data.
 - Developed linear and expanded regression models to evaluate the impact of traffic laws on fatality rate.
 - Estimated both fixed and random effect models, applying panel data techniques to control for unobserved, state specific characteristics.
 
 #### The Impact of Gratitude Journaling on High School Freshman Happiness.
 ‣ [R Markdown](https://github.com/mgleedata/Data-Science-Projects/tree/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/RandomizedTrial_Journaling/Code)
-‣ [Final Report (PDF)](https://raw.githubusercontent.com/mgleedata/Data-Science-Projects/blob/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/RandomizedTrial_Journaling/RandomizedTrial_Journaling_Students.pdf)
+‣ [Final Report (PDF)](https://raw.githubusercontent.com/mgleedata/Data-Science-Projects/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/RandomizedTrial_Journaling/RandomizedTrial_Journaling_Students.pdf)
 - Led a randomized controlled trial with 107 high school freshmen to assess the effects of gratitude journaling on happiness and well-being, using the Oxford Happiness Questionnaire and additional gratitude measures.
 - Designed and implemented surveys, blocking participants by gender, race, and class performance to ensure balanced randomization.
 - Performed OLS regression with robust standard errors to evaluate the impact of journaling on final happiness and gratitude scores.
 
 #### Wikepedia Clustering with K-means.
 ‣ [Jupyter Notebooks](https://github.com/mgleedata/Data-Science-Projects/tree/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/K-Means_Wikipedia_Clutering/Code)
-‣ [Final Report (PDF)](https://raw.githubusercontent.com/mgleedata/Data-Science-Projects/blob/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/K-Means_Wikipedia_Clutering/Wikipedia_Clustering_with_K-means.pdf)
+‣ [Final Report (PDF)](https://raw.githubusercontent.com/mgleedata/Data-Science-Projects/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/K-Means_Wikipedia_Clutering/Wikipedia_Clustering_with_K-means.pdf)
 - Developed a K-means culturing model to categorize Wikipedia articles based on their sematic and content similaries, aiming to improve the browesing experience by suggesting articles without restricting topics.
 - Web-scraped Wikipedia articles and processed the text by tokenizing and embedding for semantic meaning.
 - Tested multiple cluster sizes (64, 31, 8, 4) using the Elbow Method to determine optimal groupings.
@@ -56,7 +56,7 @@
 
 #### Time Series Analysis of Evolution of CO2 Levels from 1997 to Present.
 ‣ [R Markdown](https://github.com/mgleedata/Data-Science-Projects/tree/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/TimeSeries_CO2_Level_Analysis/Code)
-‣ [Final Report (PDF)](https://raw.githubusercontent.com/mgleedata/Data-Science-Projects/blob/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/TimeSeries_CO2_Level_Analysis/CO2_Levels_TImeSeries_Analysis.pdf)
+‣ [Final Report (PDF)](https://raw.githubusercontent.com/mgleedata/Data-Science-Projects/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/TimeSeries_CO2_Level_Analysis/CO2_Levels_TImeSeries_Analysis.pdf)
 - Analyzed long-term atmospheric CO2 data from the Mauna Loa Observatory to predict future CO2 concentrations using linear, quadratic, and ARIMA models, focusing on the impact of seasonality and human activities on CO2 trends.
 - Conducted exploratory data analysis on historical CO2 data to identify trends, seasonality, and autocorrelations.
 - Developed and compared ARIMA and polynomial regression models to forecast future CO2 levels.
@@ -64,7 +64,7 @@
 
 #### Bike Share Demand in Seoul, South Korea.
 ‣ [R Markdown](https://github.com/mgleedata/Data-Science-Projects/tree/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/Bike_Share_Analysis/Code)
-‣ [Final Report (PDF)](https://raw.githubusercontent.com/mgleedata/Data-Science-Projects/blob/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/Bike_Share_Analysis/Bike_Share_Final_Report.pdf)
+‣ [Final Report (PDF)](https://raw.githubusercontent.com/mgleedata/Data-Science-Projects/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/Bike_Share_Analysis/Bike_Share_Final_Report.pdf)
 - Developed a Poisson regression model to predict bike rental demand using the Seoul Bike Sharing Demand dataset, analyzing environmental and temporal factors influencing hourly bike rentals.
 - Conducted exploratory data analysis on key features like temperature, wind speed, and seasonality.
 - Built and compared multiple Poisson regression models to assess the influence of factors such as temperature, hour, wind speed, and seasonality.
@@ -80,7 +80,7 @@
 
 #### The Road to Efficiency: Exploring the Dynamics of MPG in 1985 Cars.
 ‣ [R Markdown](https://github.com/mgleedata/Data-Science-Projects/tree/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/MPG_dynamics_Analysis/Code)
-‣ [Final Report (PDF)](https://raw.githubusercontent.com/mgleedata/Data-Science-Projects/blob/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/MPG_dynamics_Analysis/DynamicsofMPG_Lee_Loyola_Volz.pdf)
+‣ [Final Report (PDF)](https://raw.githubusercontent.com/mgleedata/Data-Science-Projects/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/MPG_dynamics_Analysis/DynamicsofMPG_Lee_Loyola_Volz.pdf)
 - Analyzed the relationship between vehicle weight and fuel efficiency using a dataset from the 1985 Ward’s Automotive Yearbook. The project aimed to understand how factors like horsepower, fuel system, and vehicle origin affect fuel efficiency, particularly for older vehicle models.
 - Preprocessed a dataset of 192 vehicles, handling missing values and collinearity issues by creating derived features.
 - Developed three linear regression models and evaluated them using diagnostic plots, such as residuals vs. fitted values, and conducted Breusch-Pagan and Shapiro-Wilk tests to confirm model assumptions for constant variance and normality of errors.
