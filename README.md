@@ -5,9 +5,11 @@
 - Master's in Information and Data Science | UC Berkeley (_Dec 2024_)
 - Bachelor's in Biology | Univeristy of San Diego (_Dec 2020_)
 
+-------
+
 ## Work Experience
 **Data Scientist @ Hikam Health (_May 2025 - Present_)**
-- Hikma Electronic Health Records (HERS)
+- Incorporating environmental and health data for clinical usage to specifically aid displaced individuals in low to middle income countries
   
 **Senior Research Associate @ DermTech (_Jan 2023 - Aug 2024_)**
 - Identified and resolved data inconsistencies during assay verification, improving workflow reproducibility and reducing assay failure rates by 20%; implemented QC checks, normalization, and visualizations that enhanced decision-making accuracy across teams.
