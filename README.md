@@ -34,14 +34,14 @@
 
 #### Panel Models of US Traffic Fatalities: 1980 - 2004.
 ‣ [R Markdown](https://github.com/mgleedata/Data-Science-Projects/tree/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/PanelModels_TrafficFatalities_Analysis/Code)
-‣ [Final Report (PDF)](https://github.com/mgleedata/Data-Science-Projects/blob/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/PanelModels_TrafficFatalities_Analysis/PanelModel_TrafficFatalities_Analysis.pdf)
+‣ [Final Report (PDF)](https://raw.githubusercontent.com/mgleedata/Data-Science-Projects/blob/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/PanelModels_TrafficFatalities_Analysis/PanelModel_TrafficFatalities_Analysis.pdf)
 - Explored the relationship between traffic law changes and traffic fatalities across 48 U.S. States using 25 years of data from Fatality Analysis Reporting system using panel data.
 - Developed linear and expanded regression models to evaluate the impact of traffic laws on fatality rate.
 - Estimated both fixed and random effect models, applying panel data techniques to control for unobserved, state specific characteristics.
 
 #### The Impact of Gratitude Journaling on High School Freshman Happiness.
 ‣ [R Markdown](https://github.com/mgleedata/Data-Science-Projects/tree/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/RandomizedTrial_Journaling/Code)
-‣ [Final Report (PDF)](https://raw.githubusercontent.com/mgleedata/Data-Science-Projects/blob/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/RandomizedTrial_Journaling/RandomizedTrial_Journaling_Students.pdf)
+‣ [Final Report (PDF)](https:/raw.githubusercontent.com/mgleedata/Data-Science-Projects/blob/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/RandomizedTrial_Journaling/RandomizedTrial_Journaling_Students.pdf)
 - Led a randomized controlled trial with 107 high school freshmen to assess the effects of gratitude journaling on happiness and well-being, using the Oxford Happiness Questionnaire and additional gratitude measures.
 - Designed and implemented surveys, blocking participants by gender, race, and class performance to ensure balanced randomization.
 - Performed OLS regression with robust standard errors to evaluate the impact of journaling on final happiness and gratitude scores.
