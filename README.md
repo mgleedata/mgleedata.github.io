@@ -5,8 +5,6 @@
 - Master's in Information and Data Science | UC Berkeley (_Dec 2024_)
 - Bachelor's in Biology | Univeristy of San Diego (_Dec 2020_)
 
--------
-
 ## Work Experience
 **Data Scientist @ Hikam Health (_May 2025 - Present_)**
 - Incorporating environmental and health data for clinical usage to specifically aid displaced individuals in low to middle income countries
@@ -42,7 +40,7 @@
 - Estimated both fixed and random effect models, applying panel data techniques to control for unobserved, state specific characteristics.
 
 #### The Impact of Gratitude Journaling on High School Freshman Happiness.
-‣ [Jupyter Notebooks](https://github.com/mgleedata/Data-Science-Projects/tree/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/RandomizedTrial_Journaling/Code)
+‣ [R Markdown](https://github.com/mgleedata/Data-Science-Projects/tree/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/RandomizedTrial_Journaling/Code)
 ‣ [Final Report (PDF)](https://raw.githubusercontent.com/mgleedata/Data-Science-Projects/blob/d2d6bb842ed9b7eb9d99af8490747b4d6359563b/RandomizedTrial_Journaling/RandomizedTrial_Journaling_Students.pdf)
 - Led a randomized controlled trial with 107 high school freshmen to assess the effects of gratitude journaling on happiness and well-being, using the Oxford Happiness Questionnaire and additional gratitude measures.
 - Designed and implemented surveys, blocking participants by gender, race, and class performance to ensure balanced randomization.
